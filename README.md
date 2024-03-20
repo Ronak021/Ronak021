@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📝 Personal Portfolio Website ([Coming Soon!✨](Coming Soon!✨))
+- 📝 Personal Portfolio Website [Coming Soon!✨](Coming Soon!✨)
 
 - 💬 Ask me about **WebDev & Competitive Programming & ML/DL/AI**
 
