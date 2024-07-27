@@ -1,13 +1,19 @@
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ronak Chauhan</h1>
-<h3 align="center">A passionate web developer and competitive programmer from India</h3>
+ <h3 align="center" class="spaced-heading">
+        Designing web solutions in the daylight, conquering competitive code under the moonlight
+    </h3>
 
 
 
-- 🌱 I’m currently learning **NextJs**
+>  I’m currently learning **NextJs**
 
-- 📝 Personal Portfolio Website [Coming Soon!✨](Coming Soon!✨)
+> Personal Portfolio Website [Coming Soon!✨](Coming Soon!✨)
 
-- 📫 How to reach me **ronak02112@gmail.com**
+> How to reach me **ronak02112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
