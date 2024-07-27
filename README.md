@@ -15,7 +15,8 @@
 
 > How to reach me **ronak02112@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+> Connect With me
 <p align="left">
 <a href="https://twitter.com/ronak021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronak021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ronak021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak021" height="30" width="40" /></a>
@@ -24,3 +25,80 @@
 </p>
 
 
+> Lnaguages and tools
+<table>
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="60" height="60" padding="5" alt="C" /></a>
+        <br>C</br>
+</td>
+ 
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" padding="5" alt="C++" /></a>
+        <br>C++</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="60" height="60" padding="5" alt="Redis" /></a>
+        <br>Java</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="60" height="60" padding="5" alt="Python" /></a>
+        <br>Python</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="Postman" /></a>
+        <br>Flask</br>
+</td>
+
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" width="60" height="60" padding="5" alt="HTML" /></a>
+        <br>HTML</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="60" height="60" padding="5" alt="CSS" /></a>
+        <br>CSS</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" padding="5" alt="Tailwind" /></a>
+        <br>Tailwind</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="JavaScript" /></a>
+        <br>JavaScript</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" padding="5" alt="VS Code" /></a>
+        <br>VS Code</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap"  /></a>
+        <br>Bootstrap</br>
+</td>
+</tr>
+<tr>
+ <td align="center" width="96" style="border:2px solid blue">
+        <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" padding="5" alt="Git" /></a>
+        <br>Git</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="MongoDB" /></a>
+        <br>MongoDB</br>
+</td>
+
+
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" /></a>
+        <br>React.js</br>
+
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="Next.js" /></a>
+        <br>Next.js</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="60" height="60" padding="5" alt="TypeScript" /></a>
+        <br>TypeScript</br>
+</td>
+
+</tr>
+</table>
