@@ -16,7 +16,7 @@
 > How to reach me **ronak02112@gmail.com**
 
 
-> Connect With me
+> Connect with me
 <p align="left">
 <a href="https://twitter.com/ronak021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronak021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ronak021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak021" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 </p>
 
 
-> Lnaguages and tools
+> Languages and Tools
 <table>
 <tr>
 <td align="center" width="96" style="border:2px solid blue">
@@ -62,6 +62,8 @@
         <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" padding="5" alt="Tailwind" /></a>
         <br>Tailwind</br>
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="border:2px solid blue">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="JavaScript" /></a>
         <br>JavaScript</br>
@@ -74,8 +76,8 @@
         <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap"  /></a>
         <br>Bootstrap</br>
 </td>
-</tr>
-<tr>
+
+
  <td align="center" width="96" style="border:2px solid blue">
         <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" padding="5" alt="Git" /></a>
         <br>Git</br>
