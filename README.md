@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Ronak Chauhan</h1>
  <h3 align="center" class="spaced-heading">
         Designing web solutions in the daylight, conquering competitive code under the moonlight
@@ -9,7 +5,7 @@
 
 
 
->  I’m currently learning **NextJs**
+> I’m currently learning **NextJs**
 
 > Personal Portfolio Website [Coming Soon!✨](Coming Soon!✨)
 
@@ -38,17 +34,19 @@
         <br>C++</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="60" height="60" padding="5" alt="Redis" /></a>
-        <br>Java</br>
+    <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="60" height="60" padding="5" alt="Java" /></a>
+    <br>Java</br>
 </td>
+
 <td align="center" width="96" style="border:2px solid blue">
         <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="60" height="60" padding="5" alt="Python" /></a>
         <br>Python</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="Postman" /></a>
-        <br>Flask</br>
+    <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="60" height="60" padding="5" alt="Flask" /></a>
+    <br>Flask</br>
 </td>
+
 
 <td align="center" width="96" style="border:2px solid blue">
         <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" width="60" height="60" padding="5" alt="HTML" /></a>
