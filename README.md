@@ -5,7 +5,7 @@
 
 
 
-> I’m currently learning **NextJs**
+> I’m currently learning **Payload CMS**
 
 > Personal Portfolio Website [Coming Soon!✨](Coming Soon!✨)
 
